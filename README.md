@@ -1,0 +1,2 @@
+# receptai
+pirmas project
